@@ -1,0 +1,4 @@
+LIBRARY adpcm_decoder
+EXPORTS
+InitDecoder
+Decompress
